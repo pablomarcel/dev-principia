@@ -1,231 +1,51 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: "The Origins of Cyberpunk in Pop Culture"
+date: "2023-07-20T22:12:03.284Z"
+description: "A dive into the origins and influences of cyberpunk in pop culture."
 ---
 
-This is my first post on my new fake blog! How exciting!
+Cyberpunk is a subgenre of science fiction that has significantly influenced pop culture, particularly in movies, books, video games, and even fashion. It explores the intersection of technology, society, and identity in the near future, often presenting a dystopian view of a society where technology has advanced far more rapidly than our moral and social frameworks.
 
-I'm sure I'll write a lot more interesting things in the future.
+## What is Cyberpunk?
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+Cyberpunk presents a future world where there is a stark contrast between high tech and low life. It explores the social issues that arise when advanced technology is accessible to a desperate society willing to misuse it. Cyberpunk narratives often involve hackers, AI, mega-corporations, and a networked world.
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+## Origins of Cyberpunk
 
-![Chinese Salty Egg](./salty_egg.jpg)
+The term 'Cyberpunk' was coined by Bruce Bethke in his 1983 short story 'Cyberpunk'. However, the themes that define cyberpunk can be traced back to earlier works. Authors like Philip K. Dick and J.G. Ballard laid the groundwork with their stories that explored altered states, dystopian futures, and the impact of technology on society.
 
-You can also write code blocks here!
+> "The street finds its own uses for things." - William Gibson, Neuromancer
 
-```js
-const saltyDuckEgg = "chinese preserved food product"
-```
+## Influence on Movies and TV
 
-| Number | Title                                    | Year |
-| :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
+Cyberpunk has had a significant influence on movies and TV, with films like 'Blade Runner', 'Ghost in the Shell', and 'The Matrix' presenting quintessential cyberpunk narratives. These films explore themes of identity, humanity, and the implications of artificial intelligence.
 
-[View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
+![Placeholder Image](./cyberpunk-1.jpg "Cyberpunk in Movies")
 
-This is a paragraph.
+## Cyberpunk in Literature
 
-    This is a paragraph.
+In literature, the works of William Gibson, particularly his novel 'Neuromancer', are often cited as defining the cyberpunk genre. Other notable authors include Neal Stephenson and Philip K. Dick.
 
-# Header 1
+## Cyberpunk in Video Games
 
-## Header 2
+In the realm of video games, cyberpunk themes are widespread. Games like 'Deus Ex', 'Shadowrun', and 'Cyberpunk 2077' immerse players in richly detailed cyberpunk worlds.
 
-    Header 1
-    ========
+![Placeholder Image](./cyberpunk-3.jpg "Cyberpunk in Video Games")
 
-    Header 2
-    --------
+## Notable Cyberpunk Works
 
-# Header 1
+| Media | Title | Year | Author/Director |
+| :---- | :---- | ----: | :-------------- |
+| Movie | Blade Runner | 1982 | Ridley Scott |
+| Book  | Neuromancer | 1984 | William Gibson |
+| Game  | Deus Ex | 2000 | Ion Storm |
+| Movie | The Matrix | 1999 | The Wachowskis |
+| Book  | Snow Crash | 1992 | Neal Stephenson |
+| Game  | Cyberpunk 2077 | 2020 | CD Projekt |
 
-## Header 2
+## Conclusion
 
-### Header 3
+The influence of cyberpunk in pop culture is undeniable. It continues to inspire creators, offering a lens to explore our relationship with technology and its implications for society.
 
-#### Header 4
+[Further Reading on Cyberpunk](https://en.wikipedia.org/wiki/Cyberpunk)
 
-##### Header 5
-
-###### Header 6
-
-    # Header 1
-    ## Header 2
-    ### Header 3
-    #### Header 4
-    ##### Header 5
-    ###### Header 6
-
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-    # Header 1 #
-    ## Header 2 ##
-    ### Header 3 ###
-    #### Header 4 ####
-    ##### Header 5 #####
-    ###### Header 6 ######
-
-> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-    > Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-
-> ## This is a header.
->
-> 1. This is the first list item.
-> 2. This is the second list item.
->
-> Here's some example code:
->
->     Markdown.generate();
-
-    > ## This is a header.
-    > 1. This is the first list item.
-    > 2. This is the second list item.
-    >
-    > Here's some example code:
-    >
-    >     Markdown.generate();
-
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-
-```markdown
-- Red
-- Green
-- Blue
-
-* Red
-* Green
-* Blue
-
-- Red
-- Green
-- Blue
-```
-
-- `code goes` here in this line
-- **bold** goes here
-
-```markdown
-- `code goes` here in this line
-- **bold** goes here
-```
-
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-
-```markdown
-1. Buy flour and salt
-1. Mix together with water
-1. Bake
-```
-
-1. `code goes` here in this line
-1. **bold** goes here
-
-```markdown
-1. `code goes` here in this line
-1. **bold** goes here
-```
-
-Paragraph:
-
-    Code
-
-<!-- -->
-
-    Paragraph:
-
-        Code
-
----
-
----
-
----
-
----
-
----
-
-    * * *
-
-    ***
-
-    *****
-
-    - - -
-
-    ---------------------------------------
-
-This is [an example](http://example.com "Example") link.
-
-[This link](http://example.com) has no title attr.
-
-This is [an example][id] reference-style link.
-
-[id]: http://example.com "Optional Title"
-
-    This is [an example](http://example.com "Example") link.
-
-    [This link](http://example.com) has no title attr.
-
-    This is [an example] [id] reference-style link.
-
-    [id]: http://example.com "Optional Title"
-
-_single asterisks_
-
-_single underscores_
-
-**double asterisks**
-
-**double underscores**
-
-    *single asterisks*
-
-    _single underscores_
-
-    **double asterisks**
-
-    __double underscores__
-
-This paragraph has some `code` in it.
-
-    This paragraph has some `code` in it.
-
-![Alt Text](https://via.placeholder.com/200x50 "Image Title")
-
-    ![Alt Text](https://via.placeholder.com/200x50 "Image Title")

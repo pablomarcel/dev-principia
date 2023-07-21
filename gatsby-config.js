@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Dev Principia`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Dev P,`,
+      summary: `A Digital Nomad Tinkerer.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog about Tech.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `dev.principia`,
     },
   },
   plugins: [
