@@ -20,7 +20,7 @@ The term 'Cyberpunk' was coined by Bruce Bethke in his 1983 short story 'Cyberpu
 
 Cyberpunk has had a significant influence on movies and TV, with films like 'Blade Runner', 'Ghost in the Shell', and 'The Matrix' presenting quintessential cyberpunk narratives. These films explore themes of identity, humanity, and the implications of artificial intelligence.
 
-![Placeholder Image](./cyberpunk-1.jpg "Cyberpunk in Movies")
+![Placeholder Image](../../../src/images/cyberpunk-1.jpg "Cyberpunk in Movies")
 
 ## Cyberpunk in Literature
 
@@ -30,7 +30,7 @@ In literature, the works of William Gibson, particularly his novel 'Neuromancer'
 
 In the realm of video games, cyberpunk themes are widespread. Games like 'Deus Ex', 'Shadowrun', and 'Cyberpunk 2077' immerse players in richly detailed cyberpunk worlds.
 
-![Placeholder Image](./cyberpunk-3.jpg "Cyberpunk in Video Games")
+![Placeholder Image](../../../src/images/cyberpunk-3.jpg "Cyberpunk in Video Games")
 
 ## Notable Cyberpunk Works
 
