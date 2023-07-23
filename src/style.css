@@ -58,6 +58,7 @@
   --color-heading: #1a202c;
   --color-heading-black: black;
   --color-heading-radiantGreen: #12E195;
+  --color-heading-blueSpecial: #327FBD;
   --color-heading-brandeisBlue: #006FFF;
   --color-heading-lightBlue: #15a2fa;
   --color-accent: #d1dce5;
@@ -202,7 +203,7 @@ blockquote {
   margin-left: calc(-1 * var(--spacing-6));
   margin-right: var(--spacing-8);
   padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6);
-  border-left: var(--spacing-1) solid var(--color-heading-brandeisBlue);
+  border-left: var(--spacing-1) solid var(--color-heading-blueSpecial);
   font-size: var(--fontSize-2);
   font-style: italic;
   margin-bottom: var(--spacing-8);
@@ -231,7 +232,7 @@ table thead tr th {
 /* Link */
 
 a {
-  color: var(--color-heading-brandeisBlue);
+  color: var(--color-heading-blueSpecial);
 }
 
 a:hover,
