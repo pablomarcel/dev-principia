@@ -127,5 +127,14 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        // Exclude specific pages or groups of pages using glob patterns
+        // Use this to exclude or include only specific view templates
+        // exclude: ["/category/*", "/path/to/page"]
+        // Additional options can be set: https://github.com/ekalinin/sitemap.js/blob/master/api.md#sitemap-constructor-details
+      },
+      },
   ],
 }
