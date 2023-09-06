@@ -15,7 +15,7 @@ module.exports = {
       summary: `A Digital Nomad Tinkerer.`,
     },
     description: `A blog about Tech.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://dev-principia.com`,
     social: {
       twitter: `dev.principia`,
     },
