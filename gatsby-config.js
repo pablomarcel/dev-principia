@@ -17,7 +17,7 @@ module.exports = {
     description: `A blog about Tech.`,
     siteUrl: `https://dev-principia.com`,
     social: {
-      twitter: `dev.principia`,
+      twitter: `DevPrincipia`,
     },
   },
   plugins: [
