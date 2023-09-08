@@ -4,8 +4,6 @@ date: "2023-09-07T22:12:03.284Z"
 description: "An exploration into the complexities of today's social platforms."
 ---
 
-# The Underlying Challenges of Mainstream Social Networks
-
 In the digital age, social networks have bridged gaps, connected distant souls, and offered platforms for voices that were once muted. Yet, like any other tool or platform, they come with their own set of challenges.
 
 ![Placeholder Image for Social Networks](../../../src/images/facebook.png "Toxicity in Facebook")
@@ -14,12 +12,9 @@ In the digital age, social networks have bridged gaps, connected distant souls, 
 
 One of the marvels of modern technology in social networks is the use of algorithms to curate content for users, ostensibly to give them more of what they like or engage with. However, this system, while efficient, has its pitfalls. Let's break this down with a simple analogy.
 
-Imagine a social media platform as a system, and within this system, there are two main variables:
+Imagine a social media platform as a system, and within this system, there are two main variables: the engagement and the result.
 
-```javascript
-const engagement = "Reactions, comments, shares";
-const result = "Higher visibility due to algorithms";
-```
+The engagement entail reactions, comments and shares which result in higher visibility due to algorithms.
 
 Now, the more engagement a post gets (be it reactions, comments, or shares), the higher its visibility becomes because of the platform's algorithms. It's a direct relationship: increase one, and the other follows.
 
