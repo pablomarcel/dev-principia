@@ -50,4 +50,4 @@ As we navigate this digital era, let's strive for a balance, cherishing our free
 
 ---
 
-*Join the conversation and share your thoughts on [Dev Principia's Discussion Forum](https://twitter.com/DevPrincipia).*
+*Join the conversation, and share your thoughts on [Dev Principia's Discussion Forum](https://twitter.com/DevPrincipia).*
