@@ -1,3 +1,1 @@
 User-agent: *
-Disallow: https://dev-principia.com/'
-Disallow: https://dev-principia.com/
