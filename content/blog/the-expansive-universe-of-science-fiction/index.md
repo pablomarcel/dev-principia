@@ -20,7 +20,7 @@ Science fiction's roots go back as far as ancient times, but the genre as we und
 
 Science Fiction has had a profound influence on film and television, with numerous iconic franchises such as 'Star Wars', 'Star Trek', and 'Doctor Who' becoming deeply embedded in popular culture. These narratives often delve into the implications of technological and scientific advances, the exploration of space, and the potential for contact with other lifeforms.
 
-![Placeholder Image](../../../src/images/scifi-2.jpg "Science Fiction in Movies")
+![Placeholder Image](../../../src/images/scifi-2.png "Science Fiction in Movies")
 
 ## Science Fiction in Literature
 

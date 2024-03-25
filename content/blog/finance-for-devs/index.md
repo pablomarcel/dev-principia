@@ -18,7 +18,7 @@ Just as one would optimize code for performance, understanding finances allows d
 
 1. **Budgeting**: Track your income and expenses.
 2. **Investing**: Understand the basics of the stock market, bonds, and other investment opportunities.
-   ![Budgeting Image](../../../src/images/finance.jpg "Developer budgeting on a laptop")
+   ![Budgeting Image](../../../src/images/finance.png "Developer budgeting on a laptop")
 3. **Tax Planning**: Know the tax implications of your earnings, especially if you're a freelancer or run your own business.
 4. **Retirement Planning**: Start early and contribute regularly to retirement funds.
 

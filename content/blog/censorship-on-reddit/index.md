@@ -6,7 +6,7 @@ description: "Exploring the complex interplay between platform moderation and fr
 
 The world of Reddit: a vast digital landscape where users from every corner of the globe come together, sharing stories, ideas, and a meme or two. With its upvote system and passionate communities, Reddit has become the "front page of the internet."
 
-![Reddit Logo](../../../src/images/reddit.png "Toxicity in Reddit")
+![Reddit Logo](../../../src/images/reddit.jpg "Toxicity in Reddit")
 
 However, like any bustling metropolis, Reddit has its regulations, its order, and its gatekeepers: the moderators. These individuals, often volunteers, hold the power to maintain the integrity and culture of their communities by removing posts and comments they deem inappropriate.
 
@@ -16,7 +16,7 @@ However, like any bustling metropolis, Reddit has its regulations, its order, an
 
 Reddit's design empowers moderators to curate content within their subreddits. This decentralization ensures that each community maintains its unique flavor and standards. However, with such power comes the potential for overreach.
 
-![Balancing Scale](../../../src/images/metal-balance.jpg "Balance Scale")
+![Balancing Scale](../../../src/images/metal-balance.png "Balance Scale")
 
 Consider the hypothetical case of a user posting a comment or story that toes the line of a subreddit's rules. The user believes they are contributing positively, but a moderator might see things differently. The post gets removed.
 
@@ -44,7 +44,7 @@ The digital age presents new challenges for the age-old values of freedom and ex
 
 Moderators, with their vital role, must wield their power responsibly, bearing in mind the broader implications of their actions. At the same time, users should remember the platform's private nature and the necessity of some level of moderation.
 
-![Thinking Man Statue](../../../src/images/freedom.jpg "Freedom")
+![Thinking Man Statue](../../../src/images/freedom.png "Freedom")
 
 As we navigate this digital era, let's strive for a balance, cherishing our freedom while understanding the need for order. After all, in the vast world of the internet, caution and critical thinking are our best allies.
 
